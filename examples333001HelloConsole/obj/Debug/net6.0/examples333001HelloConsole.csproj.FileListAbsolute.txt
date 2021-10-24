@@ -1,0 +1,16 @@
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/examples333001HelloConsole
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/examples333001HelloConsole.deps.json
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/examples333001HelloConsole.runtimeconfig.json
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/examples333001HelloConsole.dll
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/ref/examples333001HelloConsole.dll
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/bin/Debug/net6.0/examples333001HelloConsole.pdb
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.GlobalUsings.g.cs
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.csproj.AssemblyReference.cache
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.AssemblyInfoInputs.cache
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.AssemblyInfo.cs
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.csproj.CoreCompileInputs.cache
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.dll
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/ref/examples333001HelloConsole.dll
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.pdb
+/Users/goodday/Desktop/Examples333/examples333001HelloConsole/obj/Debug/net6.0/examples333001HelloConsole.genruntimeconfig.cache
